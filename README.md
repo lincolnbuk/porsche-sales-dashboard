@@ -2,6 +2,11 @@
 
 Dashboard responsiva de vendas Porsche em **um único arquivo HTML**, com filtros e visualizações interativas, sem dependências externas.
 
+## Acesse o projeto
+
+- **Dashboard publicada:** [Abrir a dashboard no GitHub Pages](https://lincolnbuk.github.io/porsche-sales-dashboard/)
+- **Repositório e código-fonte:** [lincolnbuk/porsche-sales-dashboard](https://github.com/lincolnbuk/porsche-sales-dashboard)
+
 ## Perguntas de negócio
 
 1. **Quais modelos geram mais receita?** Compara a contribuição de cada modelo e destaca os dez maiores no recorte.
@@ -37,7 +42,4 @@ Implementação em HTML, CSS e JavaScript, sem Canvas ou agente com skill e sem 
 
 ## Publicação
 
-- Repositório público: https://github.com/lincolnbuk/porsche-sales-dashboard
-- GitHub Pages: https://lincolnbuk.github.io/porsche-sales-dashboard/
-
-Para publicar ou verificar o deploy, abra **Settings → Pages**, selecione **Deploy from a branch**, branch `main` e pasta `/ (root)`, e salve. O link do Pages só fica ativo depois que essa configuração e o deploy forem concluídos.
+O site está publicado pelo GitHub Pages. Para verificar ou alterar as configurações, abra **Settings → Pages**, com origem **Deploy from a branch**, branch `main` e pasta `/(root)`. O deploy pode levar alguns minutos após alterações.
